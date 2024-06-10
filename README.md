@@ -3,6 +3,7 @@
 
   <img src="https://i.pinimg.com/originals/16/8a/e2/168ae2afd1cfdcd2e0df40407236e935.gif">
   <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">-->
+  <p>
   <h1 align="center"> BIENVENIDO!!👋</h1>
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gracias+por+visitar+mi+perfil..&hearts;++;Mi+Nombre+es+Abdias+y+Estudio,;Ingenieria+en+Desarrollo+de+Software,;"></a>
@@ -144,3 +145,5 @@ Soy un entusiasta de la tecnología y la programación,  mi carrera es mi motiva
 <span><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python"/></span>
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
